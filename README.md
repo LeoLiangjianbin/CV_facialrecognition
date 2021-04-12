@@ -1,1 +1,1 @@
-# CV_facerecognition
+# CV_facialrecognition
